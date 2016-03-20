@@ -1,0 +1,1780 @@
+fileFormatVersion: 2
+guid: 1f6fc7da9461147feaeba66a4ddef0b9
+timeCreated: 1458475849
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.R
+    100004: Armature
+    100006: Bone
+    100008: Bone_end
+    100010: Camera
+    100012: EndFeelerA2
+    100014: EndFeelerA2_end
+    100016: EndFeelerB3
+    100018: EndFeelerB3_end
+    100020: EndFeelerC3
+    100022: EndFeelerC3_end
+    100024: EndHead
+    100026: EndHead_end
+    100028: EndHips
+    100030: EndHips_end
+    100032: EndJaw
+    100034: EndJaw_end
+    100036: EndLEar
+    100038: EndLEar_end
+    100040: EndLFeelerA3
+    100042: EndLFeelerA3_end
+    100044: EndLFeelerB2
+    100046: EndLFeelerB2_end
+    100048: EndLFeelerC2
+    100050: EndLFeelerC2_end
+    100052: EndLFeelerD2
+    100054: EndLFeelerD2_end
+    100056: EndLFinger1
+    100058: EndLFinger1_end
+    100060: EndLFoot
+    100062: EndLFoot_end
+    100064: EndLHand
+    100066: EndLHand_end
+    100068: EndLJaw
+    100070: EndLJaw_end
+    100072: EndLToe
+    100074: EndLToe_end
+    100076: EndREar
+    100078: EndREar_end
+    100080: EndRFeelerA3
+    100082: EndRFeelerA3_end
+    100084: EndRFeelerB2
+    100086: EndRFeelerB2_end
+    100088: EndRFeelerC2
+    100090: EndRFeelerC2_end
+    100092: EndRFeelerD2
+    100094: EndRFeelerD2_end
+    100096: EndRFinger1
+    100098: EndRFinger1_end
+    100100: EndRFoot
+    100102: EndRFoot_end
+    100104: EndRHand
+    100106: EndRHand_end
+    100108: EndRJaw
+    100110: EndRJaw_end
+    100112: EndRToe
+    100114: EndRToe_end
+    100116: FeelerA1
+    100118: FeelerA2
+    100120: FeelerB1
+    100122: FeelerB2
+    100124: FeelerB3
+    100126: FeelerB3.001
+    100128: FeelerB3.001_end
+    100130: FeelerC1
+    100132: FeelerC2
+    100134: FeelerC3
+    100136: FeelerC3.001
+    100138: FeelerC3.001_end
+    100140: Finger1.L
+    100142: Finger1.R
+    100144: ForeArm.L
+    100146: ForeArm.R
+    100148: Hand.L
+    100150: Hand.L_end
+    100152: Hand.R
+    100154: Hand.R_end
+    100156: Head
+    100158: Hips
+    100160: IKback.L
+    100162: IKback.L_end
+    100164: IKback.R
+    100166: IKback.R_end
+    100168: Jaw
+    100170: Lamp
+    100172: Lamp.001
+    100174: Lamp.002
+    100176: LEar
+    100178: Leg.L
+    100180: Leg.R
+    100182: LFeelerA1
+    100184: LFeelerA2
+    100186: LFeelerA3
+    100188: LFeelerA3.001
+    100190: LFeelerA3.001_end
+    100192: LFeelerB1
+    100194: LFeelerB2
+    100196: LFeelerB2.001
+    100198: LFeelerB2.001_end
+    100200: LFeelerC1
+    100202: LFeelerC2
+    100204: LFeelerC2.001
+    100206: LFeelerC2.001_end
+    100208: LFeelerD1
+    100210: LFeelerD2
+    100212: LFeelerD2.001
+    100214: LFeelerD2.001_end
+    100216: LFoot
+    100218: LHand
+    100220: LJaw
+    100222: Neck1
+    100224: Neck2
+    100226: Origin
+    100228: pm0003_00_BodySkin
+    100230: pm0003_00_BodySkin_end
+    100232: pm0003_00_dummySkin
+    100234: pm0003_00_dummySkin_end
+    100236: pm0003_00_FlowerSkin
+    100238: pm0003_00_FlowerSkin_end
+    100240: pm0003_00_fushigibana
+    100242: pm0003_00_LeafSkin
+    100244: pm0003_00_LeafSkin_end
+    100246: pm0003_01_FlowerSkin
+    100248: pm0003_01_FlowerSkin_end
+    100250: //RootNode
+    100252: REar
+    100254: RFeelerA1
+    100256: RFeelerA2
+    100258: RFeelerA3
+    100260: RFeelerA3.001
+    100262: RFeelerA3.001_end
+    100264: RFeelerB1
+    100266: RFeelerB2
+    100268: RFeelerB2.001
+    100270: RFeelerB2.001_end
+    100272: RFeelerC1
+    100274: RFeelerC2
+    100276: RFeelerC2.001
+    100278: RFeelerC2.001_end
+    100280: RFeelerD1
+    100282: RFeelerD2
+    100284: RFeelerD2.001
+    100286: RFeelerD2.001_end
+    100288: RFoot
+    100290: RHand
+    100292: RJaw
+    100294: Shoulder.L
+    100296: Shoulder.R
+    100298: Spine1
+    100300: Spine2
+    100302: Thigh.L
+    100304: Thigh.R
+    100306: Toe,R
+    100308: Toe.L
+    100310: VenusaurF
+    100312: VriVis00
+    100314: VriVis01
+    100316: Waist
+    400000: Arm.L
+    400002: Arm.R
+    400004: Armature
+    400006: Bone
+    400008: Bone_end
+    400010: Camera
+    400012: EndFeelerA2
+    400014: EndFeelerA2_end
+    400016: EndFeelerB3
+    400018: EndFeelerB3_end
+    400020: EndFeelerC3
+    400022: EndFeelerC3_end
+    400024: EndHead
+    400026: EndHead_end
+    400028: EndHips
+    400030: EndHips_end
+    400032: EndJaw
+    400034: EndJaw_end
+    400036: EndLEar
+    400038: EndLEar_end
+    400040: EndLFeelerA3
+    400042: EndLFeelerA3_end
+    400044: EndLFeelerB2
+    400046: EndLFeelerB2_end
+    400048: EndLFeelerC2
+    400050: EndLFeelerC2_end
+    400052: EndLFeelerD2
+    400054: EndLFeelerD2_end
+    400056: EndLFinger1
+    400058: EndLFinger1_end
+    400060: EndLFoot
+    400062: EndLFoot_end
+    400064: EndLHand
+    400066: EndLHand_end
+    400068: EndLJaw
+    400070: EndLJaw_end
+    400072: EndLToe
+    400074: EndLToe_end
+    400076: EndREar
+    400078: EndREar_end
+    400080: EndRFeelerA3
+    400082: EndRFeelerA3_end
+    400084: EndRFeelerB2
+    400086: EndRFeelerB2_end
+    400088: EndRFeelerC2
+    400090: EndRFeelerC2_end
+    400092: EndRFeelerD2
+    400094: EndRFeelerD2_end
+    400096: EndRFinger1
+    400098: EndRFinger1_end
+    400100: EndRFoot
+    400102: EndRFoot_end
+    400104: EndRHand
+    400106: EndRHand_end
+    400108: EndRJaw
+    400110: EndRJaw_end
+    400112: EndRToe
+    400114: EndRToe_end
+    400116: FeelerA1
+    400118: FeelerA2
+    400120: FeelerB1
+    400122: FeelerB2
+    400124: FeelerB3
+    400126: FeelerB3.001
+    400128: FeelerB3.001_end
+    400130: FeelerC1
+    400132: FeelerC2
+    400134: FeelerC3
+    400136: FeelerC3.001
+    400138: FeelerC3.001_end
+    400140: Finger1.L
+    400142: Finger1.R
+    400144: ForeArm.L
+    400146: ForeArm.R
+    400148: Hand.L
+    400150: Hand.L_end
+    400152: Hand.R
+    400154: Hand.R_end
+    400156: Head
+    400158: Hips
+    400160: IKback.L
+    400162: IKback.L_end
+    400164: IKback.R
+    400166: IKback.R_end
+    400168: Jaw
+    400170: Lamp
+    400172: Lamp.001
+    400174: Lamp.002
+    400176: LEar
+    400178: Leg.L
+    400180: Leg.R
+    400182: LFeelerA1
+    400184: LFeelerA2
+    400186: LFeelerA3
+    400188: LFeelerA3.001
+    400190: LFeelerA3.001_end
+    400192: LFeelerB1
+    400194: LFeelerB2
+    400196: LFeelerB2.001
+    400198: LFeelerB2.001_end
+    400200: LFeelerC1
+    400202: LFeelerC2
+    400204: LFeelerC2.001
+    400206: LFeelerC2.001_end
+    400208: LFeelerD1
+    400210: LFeelerD2
+    400212: LFeelerD2.001
+    400214: LFeelerD2.001_end
+    400216: LFoot
+    400218: LHand
+    400220: LJaw
+    400222: Neck1
+    400224: Neck2
+    400226: Origin
+    400228: pm0003_00_BodySkin
+    400230: pm0003_00_BodySkin_end
+    400232: pm0003_00_dummySkin
+    400234: pm0003_00_dummySkin_end
+    400236: pm0003_00_FlowerSkin
+    400238: pm0003_00_FlowerSkin_end
+    400240: pm0003_00_fushigibana
+    400242: pm0003_00_LeafSkin
+    400244: pm0003_00_LeafSkin_end
+    400246: pm0003_01_FlowerSkin
+    400248: pm0003_01_FlowerSkin_end
+    400250: //RootNode
+    400252: REar
+    400254: RFeelerA1
+    400256: RFeelerA2
+    400258: RFeelerA3
+    400260: RFeelerA3.001
+    400262: RFeelerA3.001_end
+    400264: RFeelerB1
+    400266: RFeelerB2
+    400268: RFeelerB2.001
+    400270: RFeelerB2.001_end
+    400272: RFeelerC1
+    400274: RFeelerC2
+    400276: RFeelerC2.001
+    400278: RFeelerC2.001_end
+    400280: RFeelerD1
+    400282: RFeelerD2
+    400284: RFeelerD2.001
+    400286: RFeelerD2.001_end
+    400288: RFoot
+    400290: RHand
+    400292: RJaw
+    400294: Shoulder.L
+    400296: Shoulder.R
+    400298: Spine1
+    400300: Spine2
+    400302: Thigh.L
+    400304: Thigh.R
+    400306: Toe,R
+    400308: Toe.L
+    400310: VenusaurF
+    400312: VriVis00
+    400314: VriVis01
+    400316: Waist
+    4300000: VenusaurF
+    7400000: Armature|idle
+    7400002: Armature|idle.001
+    7400004: Armature|walk
+    7400006: VenusaurF|idle.001
+    9500000: //RootNode
+    13700000: VenusaurF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|idle
+      takeName: Armature|idle
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hand.L
+        weight: 1
+      - path: Armature/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Hand.R
+        weight: 1
+      - path: Armature/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/IKback.L
+        weight: 1
+      - path: Armature/IKback.L/IKback.L_end
+        weight: 1
+      - path: Armature/IKback.R
+        weight: 1
+      - path: Armature/IKback.R/IKback.R_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001/FeelerB3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001/FeelerC3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001/LFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001/LFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001/LFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001/LFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001/RFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001/RFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001/RFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001/RFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2/EndFeelerA2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2/EndLFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2/EndLFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2/EndLFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2/EndRFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2/EndRFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2/EndRFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3/EndFeelerB3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3/EndFeelerC3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3/EndLFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3/EndRFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone/Bone_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead/EndHead_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw/EndJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw/EndLJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw/EndRJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar/EndLEar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar/EndREar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1/EndLFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1/EndRFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin/pm0003_00_BodySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin/pm0003_00_FlowerSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin/pm0003_00_LeafSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin/pm0003_00_dummySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin/pm0003_01_FlowerSkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: VenusaurF
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|idle.001
+      takeName: Armature|idle.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hand.L
+        weight: 1
+      - path: Armature/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Hand.R
+        weight: 1
+      - path: Armature/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/IKback.L
+        weight: 1
+      - path: Armature/IKback.L/IKback.L_end
+        weight: 1
+      - path: Armature/IKback.R
+        weight: 1
+      - path: Armature/IKback.R/IKback.R_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001/FeelerB3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001/FeelerC3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001/LFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001/LFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001/LFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001/LFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001/RFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001/RFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001/RFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001/RFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2/EndFeelerA2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2/EndLFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2/EndLFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2/EndLFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2/EndRFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2/EndRFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2/EndRFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3/EndFeelerB3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3/EndFeelerC3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3/EndLFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3/EndRFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone/Bone_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead/EndHead_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw/EndJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw/EndLJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw/EndRJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar/EndLEar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar/EndREar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1/EndLFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1/EndRFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin/pm0003_00_BodySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin/pm0003_00_FlowerSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin/pm0003_00_LeafSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin/pm0003_00_dummySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin/pm0003_01_FlowerSkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: VenusaurF
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk
+      takeName: Armature|walk
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hand.L
+        weight: 1
+      - path: Armature/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Hand.R
+        weight: 1
+      - path: Armature/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/IKback.L
+        weight: 1
+      - path: Armature/IKback.L/IKback.L_end
+        weight: 1
+      - path: Armature/IKback.R
+        weight: 1
+      - path: Armature/IKback.R/IKback.R_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001/FeelerB3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001/FeelerC3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001/LFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001/LFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001/LFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001/LFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001/RFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001/RFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001/RFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001/RFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2/EndFeelerA2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2/EndLFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2/EndLFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2/EndLFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2/EndRFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2/EndRFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2/EndRFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3/EndFeelerB3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3/EndFeelerC3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3/EndLFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3/EndRFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone/Bone_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead/EndHead_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw/EndJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw/EndLJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw/EndRJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar/EndLEar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar/EndREar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1/EndLFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1/EndRFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin/pm0003_00_BodySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin/pm0003_00_FlowerSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin/pm0003_00_LeafSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin/pm0003_00_dummySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin/pm0003_01_FlowerSkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: VenusaurF
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: VenusaurF|idle.001
+      takeName: VenusaurF|idle.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hand.L
+        weight: 1
+      - path: Armature/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Hand.R
+        weight: 1
+      - path: Armature/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/IKback.L
+        weight: 1
+      - path: Armature/IKback.L/IKback.L_end
+        weight: 1
+      - path: Armature/IKback.R
+        weight: 1
+      - path: Armature/IKback.R/IKback.R_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerB3.001/FeelerB3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/FeelerC3.001/FeelerC3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerA3.001/LFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerB2.001/LFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerC2.001/LFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/LFeelerD2.001/LFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerA3.001/RFeelerA3.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerB2.001/RFeelerB2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerC2.001/RFeelerC2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/RFeelerD2.001/RFeelerD2.001_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.L/Leg.L/LFoot/Toe.L/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Hips/Thigh.R/Leg.R/RFoot/Toe,R/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/EndFeelerA2/EndFeelerA2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerB1/LFeelerB2/EndLFeelerB2/EndLFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerC1/LFeelerC2/EndLFeelerC2/EndLFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/LFeelerD1/LFeelerD2/EndLFeelerD2/EndLFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerB1/RFeelerB2/EndRFeelerB2/EndRFeelerB2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerC1/RFeelerC2/EndRFeelerC2/EndRFeelerC2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerA2/RFeelerD1/RFeelerD2/EndRFeelerD2/EndRFeelerD2_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerB1/FeelerB2/FeelerB3/EndFeelerB3/EndFeelerB3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/FeelerC1/FeelerC2/FeelerC3/EndFeelerC3/EndFeelerC3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/LFeelerA1/LFeelerA2/LFeelerA3/EndLFeelerA3/EndLFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/FeelerA1/RFeelerA1/RFeelerA2/RFeelerA3/EndRFeelerA3/EndRFeelerA3_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Bone/Bone_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/EndHead/EndHead_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/EndJaw/EndJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/LJaw/EndLJaw/EndLJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/Jaw/RJaw/EndRJaw/EndRJaw_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/LEar/EndLEar/EndLEar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Neck1/Neck2/Head/REar/EndREar/EndREar_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.L/Arm.L/ForeArm.L/LHand/Finger1.L/EndLFinger1/EndLFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/Origin/Waist/Spine1/Spine2/Shoulder.R/Arm.R/ForeArm.R/RHand/Finger1.R/EndRFinger1/EndRFinger1_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_BodySkin/pm0003_00_BodySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_FlowerSkin/pm0003_00_FlowerSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/pm0003_00_LeafSkin/pm0003_00_LeafSkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis00/pm0003_00_dummySkin/pm0003_00_dummySkin_end
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin
+        weight: 1
+      - path: Armature/pm0003_00_fushigibana/VriVis01/pm0003_01_FlowerSkin/pm0003_01_FlowerSkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: VenusaurF
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
