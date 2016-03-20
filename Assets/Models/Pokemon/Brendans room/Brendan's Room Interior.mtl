@@ -1,0 +1,142 @@
+# Blender MTL File: 'Best lighting.blend'
+# Material Count: 14
+
+newmtl ad20_boy_bed01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.624580 0.373696 0.611100
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_bed01.png
+
+newmtl ad20_boy_books02.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.641187 0.340507 0.487274
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_books02.png
+
+newmtl ad20_boy_clock01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.485780 0.603407 0.520868
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_clock01.png
+
+newmtl ad20_boy_curtain02.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.465098 0.328224 0.636488
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_curtain02.png
+
+newmtl ad20_boy_cushion.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.495311 0.646401 0.789118
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_cushion.png
+
+newmtl ad20_boy_desk01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.457353 0.465879 0.594441
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_desk01.png
+
+newmtl ad20_boy_floor01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.705610 0.777759 0.404001
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_floor01.png
+
+newmtl ad20_boy_floor02.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.655948 0.388224 0.766734
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_floor02.png
+
+newmtl ad20_boy_map01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.377024 0.428807 0.526326
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_map01.png
+
+newmtl ad20_boy_obj01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.524900 0.368665 0.741605
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_obj01.png
+
+newmtl ad20_boy_pillar.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.405027 0.554036 0.337020
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_pillar.png
+
+newmtl ad20_boy_wall01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.718794 0.667473 0.418896
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_wall01.png
+
+newmtl ad20_boy_window01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.736847 0.685915 0.536414
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_window01.png
+
+newmtl ad20_boy_window01_gr.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.467266 0.767452 0.402364
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad20_boy_window01_gr.png
