@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 6df77d6b4d24f4aab8d29fbc73fa6f90
+timeCreated: 1458722157
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Blastoise
+    100004: //RootNode
+    100006: Blastoise_CannonsA
+    100008: Blastoise_CannonsB
+    100010: EndJaw
+    100012: EndLEar
+    100014: EndLFeelerA
+    100016: EndLFeelerC
+    100018: EndLFeelerD
+    100020: EndLFingerA
+    100022: EndLFingerB
+    100024: EndLFingerC
+    100026: EndLFoot
+    100028: EndLHand
+    100030: EndLToeA
+    100032: EndLToeB
+    100034: EndLToeC
+    100036: EndLToeD
+    100038: EndREar
+    100040: EndRFeelerA
+    100042: EndRFeelerC
+    100044: EndRFeelerD
+    100046: EndRFingerA
+    100048: EndRFingerB
+    100050: EndRFingerC
+    100052: EndRFoot
+    100054: EndRHand
+    100056: EndRToeA
+    100058: EndRToeB
+    100060: EndRToeC
+    100062: EndRToeD
+    100064: EndTail2
+    100066: EndWaist
+    100068: Head
+    100070: Jaw
+    100072: LArm
+    100074: LEar
+    100076: LFeelerA
+    100078: LFeelerB
+    100080: LFeelerC
+    100082: LFeelerD
+    100084: LFingerA
+    100086: LFingerB
+    100088: LFingerC
+    100090: LFoot
+    100092: LForeArm
+    100094: LHand
+    100096: LLeg
+    100098: LThigh
+    100100: LToeA
+    100102: LToeB
+    100104: LToeC
+    100106: LToeD
+    100108: Neck
+    100110: Origin
+    100112: pm0009_00
+    100114: pm0009_00_BodySkin
+    100116: pm0009_00_CannonSkin
+    100118: pm0009_00_CoverSkin
+    100120: pm0009_00_IrisSkin
+    100122: RArm
+    100124: REar
+    100126: RFeelerA
+    100128: RFeelerB
+    100130: RFeelerC
+    100132: RFeelerD
+    100134: RFingerA
+    100136: RFingerB
+    100138: RFingerC
+    100140: RFoot
+    100142: RForeArm
+    100144: RHand
+    100146: RLeg
+    100148: RThigh
+    100150: RToeA
+    100152: RToeB
+    100154: RToeC
+    100156: RToeD
+    100158: Tail1
+    100160: Tail2
+    100162: Waist
+    100164: Foot_L
+    100166: Foot_R
+    100168: LegIK_L
+    100170: LegIK_R
+    100172: LForeArm_001
+    100174: RForeArm_001
+    400000: Armature
+    400002: //RootNode
+    400004: Blastoise
+    400006: Blastoise_CannonsA
+    400008: Blastoise_CannonsB
+    400010: EndJaw
+    400012: EndLEar
+    400014: EndLFeelerA
+    400016: EndLFeelerC
+    400018: EndLFeelerD
+    400020: EndLFingerA
+    400022: EndLFingerB
+    400024: EndLFingerC
+    400026: EndLFoot
+    400028: EndLHand
+    400030: EndLToeA
+    400032: EndLToeB
+    400034: EndLToeC
+    400036: EndLToeD
+    400038: EndREar
+    400040: EndRFeelerA
+    400042: EndRFeelerC
+    400044: EndRFeelerD
+    400046: EndRFingerA
+    400048: EndRFingerB
+    400050: EndRFingerC
+    400052: EndRFoot
+    400054: EndRHand
+    400056: EndRToeA
+    400058: EndRToeB
+    400060: EndRToeC
+    400062: EndRToeD
+    400064: EndTail2
+    400066: EndWaist
+    400068: Head
+    400070: Jaw
+    400072: LArm
+    400074: LEar
+    400076: LFeelerA
+    400078: LFeelerB
+    400080: LFeelerC
+    400082: LFeelerD
+    400084: LFingerA
+    400086: LFingerB
+    400088: LFingerC
+    400090: LFoot
+    400092: LForeArm
+    400094: LHand
+    400096: LLeg
+    400098: LThigh
+    400100: LToeA
+    400102: LToeB
+    400104: LToeC
+    400106: LToeD
+    400108: Neck
+    400110: Origin
+    400112: pm0009_00
+    400114: pm0009_00_BodySkin
+    400116: pm0009_00_CannonSkin
+    400118: pm0009_00_CoverSkin
+    400120: pm0009_00_IrisSkin
+    400122: RArm
+    400124: REar
+    400126: RFeelerA
+    400128: RFeelerB
+    400130: RFeelerC
+    400132: RFeelerD
+    400134: RFingerA
+    400136: RFingerB
+    400138: RFingerC
+    400140: RFoot
+    400142: RForeArm
+    400144: RHand
+    400146: RLeg
+    400148: RThigh
+    400150: RToeA
+    400152: RToeB
+    400154: RToeC
+    400156: RToeD
+    400158: Tail1
+    400160: Tail2
+    400162: Waist
+    400164: Foot_L
+    400166: Foot_R
+    400168: LegIK_L
+    400170: LegIK_R
+    400172: LForeArm_001
+    400174: RForeArm_001
+    4300000: Blastoise
+    4300002: Blastoise_CannonsB
+    4300004: Blastoise_CannonsA
+    7400000: Default Take
+    7400002: Idle
+    7400004: Walk
+    9500000: //RootNode
+    13700000: Blastoise
+    13700002: Blastoise_CannonsA
+    13700004: Blastoise_CannonsB
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/LegIK_L
+        weight: 1
+      - path: Armature/LegIK_R
+        weight: 1
+      - path: Armature/LForeArm_001
+        weight: 1
+      - path: Armature/pm0009_00
+        weight: 1
+      - path: Armature/pm0009_00/Origin
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/EndWaist
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerA/EndLFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerB/EndLFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerC/EndLFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/EndLFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB/LFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB/LFeelerC/EndLFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerD/EndLFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/EndLFoot
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeA/EndLToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeB/EndLToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeC/EndLToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeD/EndLToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/Jaw
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/LEar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/REar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerA/EndRFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerB/EndRFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerC/EndRFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/EndRFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB/RFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB/RFeelerC/EndRFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerD/EndRFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/EndRFoot
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeA/EndRToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeB/EndRToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeC/EndRToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeD/EndRToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1/Tail2/EndTail2
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_BodySkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_CannonSkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_CoverSkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_IrisSkin
+        weight: 1
+      - path: Armature/RForeArm_001
+        weight: 1
+      - path: Blastoise
+        weight: 1
+      - path: Blastoise_CannonsA
+        weight: 1
+      - path: Blastoise_CannonsB
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/LegIK_L
+        weight: 1
+      - path: Armature/LegIK_R
+        weight: 1
+      - path: Armature/LForeArm_001
+        weight: 1
+      - path: Armature/pm0009_00
+        weight: 1
+      - path: Armature/pm0009_00/Origin
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/EndWaist
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerA/EndLFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerB/EndLFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerC/EndLFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/EndLFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB/LFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB/LFeelerC/EndLFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerD/EndLFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/EndLFoot
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeA/EndLToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeB/EndLToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeC/EndLToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeD/EndLToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/Jaw
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/LEar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/REar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerA/EndRFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerB/EndRFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerC/EndRFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/EndRFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB/RFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB/RFeelerC/EndRFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerD/EndRFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/EndRFoot
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeA/EndRToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeB/EndRToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeC/EndRToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeD/EndRToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1/Tail2/EndTail2
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_BodySkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_CannonSkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_CoverSkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_IrisSkin
+        weight: 1
+      - path: Armature/RForeArm_001
+        weight: 1
+      - path: Blastoise
+        weight: 1
+      - path: Blastoise_CannonsA
+        weight: 1
+      - path: Blastoise_CannonsB
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/LegIK_L
+        weight: 1
+      - path: Armature/LegIK_R
+        weight: 1
+      - path: Armature/LForeArm_001
+        weight: 1
+      - path: Armature/pm0009_00
+        weight: 1
+      - path: Armature/pm0009_00/Origin
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/EndWaist
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerA/EndLFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerB/EndLFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LArm/LForeArm/LHand/LFingerC/EndLFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/EndLFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB/LFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerA/LFeelerB/LFeelerC/EndLFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LFeelerD/EndLFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/EndLFoot
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeA/EndLToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeB/EndLToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeC/EndLToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/LThigh/LLeg/Foot_L/LToeD/EndLToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/Jaw
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/Jaw/EndJaw
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/LEar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/LEar/EndLEar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/REar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Neck/Head/REar/EndREar
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerA/EndRFingerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerB/EndRFingerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RArm/RForeArm/RHand/RFingerC/EndRFingerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/EndRFeelerA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB/RFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerA/RFeelerB/RFeelerC/EndRFeelerC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RFeelerD/EndRFeelerD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/EndRFoot
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeA/EndRToeA
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeB/EndRToeB
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeC/EndRToeC
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/RThigh/RLeg/Foot_R/RToeD/EndRToeD
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0009_00/Origin/Waist/Tail1/Tail2/EndTail2
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_BodySkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_CannonSkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_CoverSkin
+        weight: 1
+      - path: Armature/pm0009_00/pm0009_00_IrisSkin
+        weight: 1
+      - path: Armature/RForeArm_001
+        weight: 1
+      - path: Blastoise
+        weight: 1
+      - path: Blastoise_CannonsA
+        weight: 1
+      - path: Blastoise_CannonsB
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

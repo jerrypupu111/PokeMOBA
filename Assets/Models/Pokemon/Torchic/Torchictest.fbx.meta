@@ -3,7 +3,7 @@ guid: 4fcc254115289449aa827517301927e3
 timeCreated: 1458410445
 licenseType: Free
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: Armature
     100002: Camera
@@ -130,6 +130,54 @@ ModelImporter:
     100244: VriTex00
     100246: VriTex01
     100248: Waist
+    100250: Hair2.001
+    100252: Hair2.001_end
+    100254: Lamp.001
+    100256: Lamp.002
+    100258: Leg.L
+    100260: LegIK.L
+    100262: LegIK.L_end
+    100264: LegIK.R
+    100266: LegIK.R_end
+    100268: LHair2.001
+    100270: LHair2.001_end
+    100272: RHair2.001
+    100274: RHair2.001_end
+    100276: Thigh.L
+    100278: LToeA2.001
+    100280: LToeA2.001_end
+    100282: LToeB2.001
+    100284: LToeB2.001_end
+    100286: LToeC2.001
+    100288: LToeC2.001_end
+    100290: LToeD2.001
+    100292: LToeD2.001_end
+    100294: RToeB2.001
+    100296: RToeB2.001_end
+    100298: RToeD2.001
+    100300: RToeD2.001_end
+    100302: RToeIKA2
+    100304: RToeIKA2_end
+    100306: RToeIKC2
+    100308: RToeIKC2_end
+    100310: Foot.L
+    100312: Foot.R
+    100314: ToeB2.L
+    100316: ToeB2.L_end
+    100318: ToeB2.R
+    100320: ToeB2.R_end
+    100322: ToeD2.L
+    100324: ToeD2.L_end
+    100326: ToeD2.R
+    100328: ToeD2.R_end
+    100330: ToeIKA2.L
+    100332: ToeIKA2.L_end
+    100334: ToeIKA2.R
+    100336: ToeIKA2.R_end
+    100338: ToeIKC2.L
+    100340: ToeIKC2.L_end
+    100342: ToeIKC2.R
+    100344: ToeIKC2.R_end
     400000: Armature
     400002: Camera
     400004: EndFeeler
@@ -255,12 +303,73 @@ ModelImporter:
     400244: VriTex00
     400246: VriTex01
     400248: Waist
+    400250: Hair2.001
+    400252: Hair2.001_end
+    400254: Lamp.001
+    400256: Lamp.002
+    400258: Leg.L
+    400260: LegIK.L
+    400262: LegIK.L_end
+    400264: LegIK.R
+    400266: LegIK.R_end
+    400268: LHair2.001
+    400270: LHair2.001_end
+    400272: RHair2.001
+    400274: RHair2.001_end
+    400276: Thigh.L
+    400278: LToeA2.001
+    400280: LToeA2.001_end
+    400282: LToeB2.001
+    400284: LToeB2.001_end
+    400286: LToeC2.001
+    400288: LToeC2.001_end
+    400290: LToeD2.001
+    400292: LToeD2.001_end
+    400294: RToeB2.001
+    400296: RToeB2.001_end
+    400298: RToeD2.001
+    400300: RToeD2.001_end
+    400302: RToeIKA2
+    400304: RToeIKA2_end
+    400306: RToeIKC2
+    400308: RToeIKC2_end
+    400310: Foot.L
+    400312: Foot.R
+    400314: ToeB2.L
+    400316: ToeB2.L_end
+    400318: ToeB2.R
+    400320: ToeB2.R_end
+    400322: ToeD2.L
+    400324: ToeD2.L_end
+    400326: ToeD2.R
+    400328: ToeD2.R_end
+    400330: ToeIKA2.L
+    400332: ToeIKA2.L_end
+    400334: ToeIKA2.R
+    400336: ToeIKA2.R_end
+    400338: ToeIKC2.L
+    400340: ToeIKC2.L_end
+    400342: ToeIKC2.R
+    400344: ToeIKC2.R_end
     4300000: TorchicM_MouthOpen
     4300002: TorchicM
     4300004: TorchicM_MouthClosed
     7400000: Armature|Idle
     7400002: Armature|Idle.001
     7400004: Armature|Idle.0010
+    7400006: Armature|Fire
+    7400008: Armature|test
+    7400010: Armature|Walk
+    7400012: Armature|ArmatureAction
+    7400014: Armature|ArmatureAction.001
+    7400016: Armature|ArmatureAction.0010
+    7400018: Lamp|test
+    7400020: Lamp|Walk.001
+    7400022: Lamp.001|test
+    7400024: Lamp.001|Walk.001
+    7400026: Lamp.002|test
+    7400028: Lamp.002|Walk.001
+    7400030: Armature|WalkOld
     9500000: //RootNode
     13700000: TorchicM
     13700002: TorchicM_MouthClosed
@@ -272,6 +381,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -279,564 +389,12 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Armature|Idle.0010
-      takeName: Armature|Idle.001
-      firstFrame: 0
-      lastFrame: 24
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      loopTime: 1
-      loopBlend: 1
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: Armature
-        weight: 1
-      - path: Armature/LLeg.001
-        weight: 1
-      - path: Armature/LLeg.001/LLeg.001_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/EndHips
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/EndHips/EndHips_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1/LToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1/LToeA2/EndLToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1/LToeA2/EndLToeA2/EndLToeA2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1/LToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1/LToeB2/EndLToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1/LToeB2/EndLToeB2/EndLToeB2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1/LToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1/LToeC2/EndLToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1/LToeC2/EndLToeC2/EndLToeC2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1/LToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1/LToeD2/EndLToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1/LToeD2/EndLToeD2/EndLToeD2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1/RToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1/RToeA2/EndRToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1/RToeA2/EndRToeA2/EndRToeA2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1/RToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1/RToeB2/EndRToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1/RToeB2/EndRToeB2/EndRToeB2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1/RToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1/RToeC2/EndRToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1/RToeC2/EndRToeC2/EndRToeC2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1/RToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1/RToeD2/EndRToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1/RToeD2/EndRToeD2/EndRToeD2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1/Tail2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1/Tail2/EndTail2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1/Tail2/EndTail2/EndTail2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/EndFeeler
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/EndFeeler/EndFeeler_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/FeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/FeelerA/EndFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/FeelerA/EndFeelerA/EndFeelerA_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerA/EndLFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerA/EndLFeelerA/EndLFeelerA_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerB/EndLFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerB/EndLFeelerB/EndLFeelerB_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerC/EndLFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerC/EndLFeelerC/EndLFeelerC_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerA/EndRFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerA/EndRFeelerA/EndRFeelerA_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerB/EndRFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerB/EndRFeelerB/EndRFeelerB_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerC/EndRFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerC/EndRFeelerC/EndRFeelerC_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/EndHead
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/EndHead/EndHead_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1/Hair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1/Hair2/EndHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1/Hair2/EndHair2/EndHair2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Jaw
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Jaw/EndJaw
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Jaw/EndJaw/EndJaw_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1/LHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1/LHair2/EndLHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1/LHair2/EndLHair2/EndLHair2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1/RHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1/RHair2/EndRHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1/RHair2/EndRHair2/EndRHair2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_BodySkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_BodySkin/pm0255_00_BodySkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_CloseMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_CloseMouthSkin/pm0255_00_CloseMouthSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_HeadSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_HeadSkin/pm0255_00_HeadSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_OpenMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_OpenMouthSkin/pm0255_00_OpenMouthSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_BodySkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_BodySkin/pm0255_01_BodySkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_CloseMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_CloseMouthSkin/pm0255_01_CloseMouthSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_HeadSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_HeadSkin/pm0255_01_HeadSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_OpenMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_OpenMouthSkin/pm0255_01_OpenMouthSkin_end
-        weight: 1
-      - path: Armature/RLeg.001
-        weight: 1
-      - path: Armature/RLeg.001/RLeg.001_end
-        weight: 1
-      - path: Camera
-        weight: 1
-      - path: Lamp
-        weight: 1
-      - path: TorchicM
-        weight: 1
-      - path: TorchicM_MouthClosed
-        weight: 1
-      - path: TorchicM_MouthOpen
-        weight: 1
-      maskType: 0
-      maskSource: {instanceID: 0}
-    - serializedVersion: 16
-      name: Armature|Idle.001
-      takeName: Armature|Idle.001
-      firstFrame: 0
-      lastFrame: 24
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      loopTime: 1
-      loopBlend: 1
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: Armature
-        weight: 1
-      - path: Armature/LLeg.001
-        weight: 1
-      - path: Armature/LLeg.001/LLeg.001_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/EndHips
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/EndHips/EndHips_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1/LToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1/LToeA2/EndLToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeA1/LToeA2/EndLToeA2/EndLToeA2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1/LToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1/LToeB2/EndLToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeB1/LToeB2/EndLToeB2/EndLToeB2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1/LToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1/LToeC2/EndLToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeC1/LToeC2/EndLToeC2/EndLToeC2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1/LToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1/LToeD2/EndLToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToeD1/LToeD2/EndLToeD2/EndLToeD2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1/RToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1/RToeA2/EndRToeA2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeA1/RToeA2/EndRToeA2/EndRToeA2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1/RToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1/RToeB2/EndRToeB2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeB1/RToeB2/EndRToeB2/EndRToeB2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1/RToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1/RToeC2/EndRToeC2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeC1/RToeC2/EndRToeC2/EndRToeC2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1/RToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1/RToeD2/EndRToeD2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToeD1/RToeD2/EndRToeD2/EndRToeD2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1/Tail2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1/Tail2/EndTail2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Hips/Tail1/Tail2/EndTail2/EndTail2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/EndFeeler
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/EndFeeler/EndFeeler_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/FeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/FeelerA/EndFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/FeelerA/EndFeelerA/EndFeelerA_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerA/EndLFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerA/EndLFeelerA/EndLFeelerA_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerB/EndLFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerB/EndLFeelerB/EndLFeelerB_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerC/EndLFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/LFeelerC/EndLFeelerC/EndLFeelerC_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerA/EndRFeelerA
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerA/EndRFeelerA/EndRFeelerA_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerB/EndRFeelerB
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerB/EndRFeelerB/EndRFeelerB_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerC/EndRFeelerC
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Feeler/RFeelerC/EndRFeelerC/EndRFeelerC_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/EndHead
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/EndHead/EndHead_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1/Hair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1/Hair2/EndHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Hair1/Hair2/EndHair2/EndHair2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Jaw
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Jaw/EndJaw
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/Jaw/EndJaw/EndJaw_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1/LHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1/LHair2/EndLHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/LHair1/LHair2/EndLHair2/EndLHair2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1/RHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1/RHair2/EndRHair2
-        weight: 1
-      - path: Armature/pm0255_00_achamo/Origin/Waist/Spine1/Spine2/Head/RHair1/RHair2/EndRHair2/EndRHair2_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_BodySkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_BodySkin/pm0255_00_BodySkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_CloseMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_CloseMouthSkin/pm0255_00_CloseMouthSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_HeadSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_HeadSkin/pm0255_00_HeadSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_OpenMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex00/pm0255_00_OpenMouthSkin/pm0255_00_OpenMouthSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_BodySkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_BodySkin/pm0255_01_BodySkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_CloseMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_CloseMouthSkin/pm0255_01_CloseMouthSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_HeadSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_HeadSkin/pm0255_01_HeadSkin_end
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_OpenMouthSkin
-        weight: 1
-      - path: Armature/pm0255_00_achamo/VriTex01/pm0255_01_OpenMouthSkin/pm0255_01_OpenMouthSkin_end
-        weight: 1
-      - path: Armature/RLeg.001
-        weight: 1
-      - path: Armature/RLeg.001/RLeg.001_end
-        weight: 1
-      - path: Camera
-        weight: 1
-      - path: Lamp
-        weight: 1
-      - path: TorchicM
-        weight: 1
-      - path: TorchicM_MouthClosed
-        weight: 1
-      - path: TorchicM_MouthOpen
-        weight: 1
-      maskType: 0
-      maskSource: {instanceID: 0}
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -857,24 +415,25 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

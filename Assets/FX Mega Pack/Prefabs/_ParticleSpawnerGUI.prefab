@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: _ParticleSpawnerGUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a27801e7c5067a9418a1703717e54069, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  particles:
+  - {fileID: 100000, guid: 0c5f2e385bc347c4cb74180cacffeb28, type: 2}
+  - {fileID: 100000, guid: 5fd0e8195d90f4d46a3f9697dbaca0ef, type: 2}
+  - {fileID: 100000, guid: e3e5c664d4e54ae45a515c15694eb71a, type: 2}
+  - {fileID: 100000, guid: 6039f926207fa2845b8d5d188910a950, type: 2}
+  - {fileID: 100000, guid: d6221b152c3c9cf4ba528b43528154a5, type: 2}
+  - {fileID: 100000, guid: 5e2514f13f81b09499af9009914f889a, type: 2}
+  - {fileID: 100002, guid: 902e2528e5ab1ec46bf9438234591bc3, type: 2}
+  - {fileID: 100002, guid: 2557af4462d34034b9ea255b4411f006, type: 2}
+  - {fileID: 100000, guid: 1cd29289f935e764285e85637afe1a6e, type: 2}
+  - {fileID: 100000, guid: e980dca8846a06f45b065586ab073a07, type: 2}
+  - {fileID: 100000, guid: 28627f8fb21b36c429f55f15e3608791, type: 2}
+  - {fileID: 100000, guid: c1d5ab06ee88ff740a542536e0f95362, type: 2}
+  - {fileID: 100000, guid: b8d9ac0424b73b64cafdf0fc20ab35b3, type: 2}
+  - {fileID: 100000, guid: 0fed07ad49091bf44b483606bb4df2a4, type: 2}
+  - {fileID: 100000, guid: bab90ad6e085dcf499516e18f72e68d3, type: 2}
+  - {fileID: 100000, guid: 5981617a1d4158c49ac183516dba4344, type: 2}
+  - {fileID: 100000, guid: 7d92a0a4a41ac494c8655c13bb65492a, type: 2}
+  - {fileID: 100000, guid: 89da823a5d8a4674482541d0ee63431c, type: 2}
+  - {fileID: 100000, guid: 9bc25e15edc665648b52569556352676, type: 2}
+  - {fileID: 100000, guid: a4d9572c2c47bcf4490cd3a13d0f86b4, type: 2}
+  - {fileID: 100002, guid: add65fcefb36cf44caa8aa47d56ace61, type: 2}
+  - {fileID: 100000, guid: b97e807fa5847aa489360d46e6e7267a, type: 2}
+  - {fileID: 100000, guid: 9ad3b598088d9e14aa6e8c2b34ad0299, type: 2}
+  - {fileID: 100002, guid: 3f1281daa8b601d4084161fc41bbbec4, type: 2}
+  - {fileID: 0}
+  - {fileID: 100000, guid: e131f4a99bca21246a1f6c87bf6698b6, type: 2}
+  - {fileID: 100000, guid: 24ff588fcc97031479ffd6a626a8946b, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 100002, guid: 27a53a04ff38bfc4b8dd0a089e3b6142, type: 2}
+  - {fileID: 100006, guid: 80c40ab3b7dac27418f52fc1fe58f86d, type: 2}
+  - {fileID: 100006, guid: abe43b619b125a34c83112d7eb9a0a4f, type: 2}
+  - {fileID: 100006, guid: 424dd227a15714b4b939dce25e658e34, type: 2}
+  - {fileID: 100000, guid: b7bdfc8acc0256649b1a0e7b3cee4fb6, type: 2}
+  - {fileID: 100000, guid: 490264aeaee8e4c4f8c316a851e1b179, type: 2}
+  - {fileID: 100000, guid: 6829a320b285e9a498ee5bb32f7f65ba, type: 2}
+  - {fileID: 100006, guid: 5e222afa6c0590d47a4fcf8916be624b, type: 2}
+  - {fileID: 100000, guid: f0ab467a873eab845950836177c4b2d7, type: 2}
+  - {fileID: 100002, guid: f527e6aea0ac92147b31a4b6a30579ca, type: 2}
+  - {fileID: 100000, guid: 4a5cd1b5dfc0e2743978d1a3aa11ebf7, type: 2}
+  - {fileID: 100000, guid: 6b6e12d9b4723af4aa5031e3a883adb6, type: 2}
+  - {fileID: 100000, guid: 12c25d0cebe3e96419a29446054b5926, type: 2}
+  - {fileID: 100000, guid: d827829084319e5478009c518da1b681, type: 2}
+  - {fileID: 100000, guid: d3dd41aa42197454e8c957bcbabd5c17, type: 2}
+  - {fileID: 100000, guid: 954cff87c32561742a54daa6a1ec70c8, type: 2}
+  - {fileID: 100002, guid: 9afc5d6c05a80e243beb1d3ccacb5d6c, type: 2}
+  - {fileID: 100002, guid: 6712925bdcbea9341b09e1a6b01ea0bb, type: 2}
+  - {fileID: 100000, guid: 1f3d483a60d95e84aaee6bedbaad1664, type: 2}
+  - {fileID: 100000, guid: 48a6edee799ac66488fd15f58cd0bff1, type: 2}
+  - {fileID: 100000, guid: 5c4f4e2ecd2ccdf44b36806ecb5c80c2, type: 2}
+  - {fileID: 100000, guid: 7602364205e5cc44fb006dcfb62d000b, type: 2}
+  - {fileID: 100002, guid: cc0b6ba9e00ef3340b5f7cd1c36bc7ca, type: 2}
+  maxButtons: 15
+  showInfo: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
