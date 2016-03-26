@@ -3998,7 +3998,6 @@ Canvas:
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
-  m_SortingBucketNormalizedSize: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -4409,6 +4408,9 @@ GameObject:
   - 114: {fileID: 683398323}
   - 54: {fileID: 683398325}
   - 195: {fileID: 683398326}
+  - 114: {fileID: 683398329}
+  - 114: {fileID: 683398328}
+  - 114: {fileID: 683398327}
   m_Layer: 0
   m_Name: Player001
   m_TagString: Untagged
@@ -4437,7 +4439,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 683398321}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bdfa50ddd546640f3b2677758b903f08, type: 3}
   m_Name: 
@@ -4492,6 +4494,47 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &683398327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 683398321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1aa162cce979ea4c87100863c7ee6f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &683398328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 683398321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184b79bbb9173ee47852eee2ce5e1fbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CastMask:
+    serializedVersion: 2
+    m_Bits: 512
+  CameraRayLength: 1000
+--- !u!114 &683398329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 683398321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d20c4920698eb54d9446cd4fe68ccfe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Target: {x: 0, y: 0, z: 0}
+  FindByTag: 0
+  Tag: 
+  m_IsStop: 1
 --- !u!1 &683644056
 GameObject:
   m_ObjectHideFlags: 0
@@ -7581,15 +7624,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2ec2b96de5640e42a622fc3064f1c80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Target: {fileID: 683398322}
-  m_AutoTargetPlayer: 1
-  m_UpdateType: 0
-  targetRigidbody: {fileID: 0}
-  m_RotationRange: {x: 0, y: 0}
-  m_FollowSpeed: 1
-  m_FollowAngles: {x: 0, y: 0, z: 0}
-  m_OriginalRotation: {x: 0, y: 0, z: 0, w: 0}
-  m_FollowVelocity: {x: 0, y: 0, z: 0}
 --- !u!1001 &1236391769
 Prefab:
   m_ObjectHideFlags: 0

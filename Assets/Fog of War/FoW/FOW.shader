@@ -58,7 +58,7 @@ fixed4 frag (Input i) : COLOR
 {
 	half4 original = tex2D(_MainTex, i.uv);
 
-#if SHADER_API_D3D9
+#if SHADER_API_D3D11
 	float2 depthUV = i.uv;
 	depthUV.y = lerp(depthUV.y, 1.0 - depthUV.y, _CamPos.w);
 	float depth = UNITY_SAMPLE_DEPTH(tex2D(_CameraDepthTexture, depthUV));

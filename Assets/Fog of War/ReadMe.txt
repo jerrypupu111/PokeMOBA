@@ -1,6 +1,6 @@
 --------------------------------------------------
              Tasharen Fog of War
- Copyright © 2012 Tasharen Entertainment
+ Copyright ?2012 Tasharen Entertainment
                 Version 1.0
             support@tasharen.com
 http://www.tasharen.com/forum/index.php?topic=1291.0
