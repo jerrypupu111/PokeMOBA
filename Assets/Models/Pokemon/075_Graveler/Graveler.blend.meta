@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 995a84166167f4444b763d2425fd3493
+timeCreated: 1458963813
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _01_pm0075_00
+    100002: _02_Origin
+    100004: _03_Waist
+    100006: _04_EndWaist
+    100008: _05_Jaw
+    100010: _06_EndJaw
+    100012: _07_LArm
+    100014: _08_LForeArm
+    100016: _09_LHand
+    100018: _10_EndLHand
+    100020: _11_LFingerA1
+    100022: _12_LFingerA2
+    100024: _13_EndLFingerA2
+    100026: _14_LFingerB1
+    100028: _15_LFingerB2
+    100030: _16_EndLFingerB2
+    100032: _17_LFingerC1
+    100034: _18_LFingerC2
+    100036: _19_EndLFingerC2
+    100038: _20_LArm2
+    100040: _21_LForeArm2
+    100042: _22_LHand2
+    100044: _23_EndLHand2
+    100046: _24_LFingerD1
+    100048: _25_LFingerD2
+    100050: _26_EndLFingerD2
+    100052: _27_LFingerE1
+    100054: _28_LFingerE2
+    100056: _29_EndLFingerE2
+    100058: _30_LFingerF1
+    100060: _31_LFingerF2
+    100062: _32_EndLFingerF2
+    100064: _33_LThigh
+    100066: _34_LFoot
+    100068: _35_EndLFoot
+    100070: _36_LToe
+    100072: _37_EndLToe
+    100074: _38_RArm
+    100076: _39_RForeArm
+    100078: _40_RHand
+    100080: _41_EndRHand
+    100082: _42_RFingerA1
+    100084: _43_RFingerA2
+    100086: _44_EndRFingerA2
+    100088: _45_RFingerB1
+    100090: _46_RFingerB2
+    100092: _47_EndRFingerB2
+    100094: _48_RFingerC1
+    100096: _49_RFingerC2
+    100098: _50_EndRFingerC2
+    100100: _51_RArm2
+    100102: _52_RForeArm2
+    100104: _53_RHand2
+    100106: _54_EndRHand2
+    100108: _55_RFingerD1
+    100110: _56_RFingerD2
+    100112: _57_EndRFingerD2
+    100114: _58_RFingerE1
+    100116: _59_RFingerE2
+    100118: _60_EndRFingerE2
+    100120: _61_RFingerF1
+    100122: _62_RFingerF2
+    100124: _63_EndRFingerF2
+    100126: _64_RThigh
+    100128: _65_RFoot
+    100130: _66_EndRFoot
+    100132: _67_RToe
+    100134: _68_EndRToe
+    100136: _69_pm0075_00_Skin
+    100138: Graveler
+    100140: //RootNode
+    100142: Origin
+    400000: _01_pm0075_00
+    400002: _02_Origin
+    400004: _03_Waist
+    400006: _04_EndWaist
+    400008: _05_Jaw
+    400010: _06_EndJaw
+    400012: _07_LArm
+    400014: _08_LForeArm
+    400016: _09_LHand
+    400018: _10_EndLHand
+    400020: _11_LFingerA1
+    400022: _12_LFingerA2
+    400024: _13_EndLFingerA2
+    400026: _14_LFingerB1
+    400028: _15_LFingerB2
+    400030: _16_EndLFingerB2
+    400032: _17_LFingerC1
+    400034: _18_LFingerC2
+    400036: _19_EndLFingerC2
+    400038: _20_LArm2
+    400040: _21_LForeArm2
+    400042: _22_LHand2
+    400044: _23_EndLHand2
+    400046: _24_LFingerD1
+    400048: _25_LFingerD2
+    400050: _26_EndLFingerD2
+    400052: _27_LFingerE1
+    400054: _28_LFingerE2
+    400056: _29_EndLFingerE2
+    400058: _30_LFingerF1
+    400060: _31_LFingerF2
+    400062: _32_EndLFingerF2
+    400064: _33_LThigh
+    400066: _34_LFoot
+    400068: _35_EndLFoot
+    400070: _36_LToe
+    400072: _37_EndLToe
+    400074: _38_RArm
+    400076: _39_RForeArm
+    400078: _40_RHand
+    400080: _41_EndRHand
+    400082: _42_RFingerA1
+    400084: _43_RFingerA2
+    400086: _44_EndRFingerA2
+    400088: _45_RFingerB1
+    400090: _46_RFingerB2
+    400092: _47_EndRFingerB2
+    400094: _48_RFingerC1
+    400096: _49_RFingerC2
+    400098: _50_EndRFingerC2
+    400100: _51_RArm2
+    400102: _52_RForeArm2
+    400104: _53_RHand2
+    400106: _54_EndRHand2
+    400108: _55_RFingerD1
+    400110: _56_RFingerD2
+    400112: _57_EndRFingerD2
+    400114: _58_RFingerE1
+    400116: _59_RFingerE2
+    400118: _60_EndRFingerE2
+    400120: _61_RFingerF1
+    400122: _62_RFingerF2
+    400124: _63_EndRFingerF2
+    400126: _64_RThigh
+    400128: _65_RFoot
+    400130: _66_EndRFoot
+    400132: _67_RToe
+    400134: _68_EndRToe
+    400136: _69_pm0075_00_Skin
+    400138: //RootNode
+    400140: Graveler
+    400142: Origin
+    4300000: Graveler
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Graveler
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
