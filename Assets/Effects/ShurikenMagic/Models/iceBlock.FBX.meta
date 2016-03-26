@@ -3,7 +3,16 @@ guid: fd983b1c3f6841448a4b8b37a04dce9f
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: iceBlock
+    7400000: ALLANIMS
+    7400002: appear
+    7400004: stay
+    7400006: disappear
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0

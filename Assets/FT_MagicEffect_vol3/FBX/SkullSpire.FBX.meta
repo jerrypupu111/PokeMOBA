@@ -3,8 +3,13 @@ guid: 2d2a2daea87c7a041909745a796c1373
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: polymsh
     4300002: SkullSpire
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0

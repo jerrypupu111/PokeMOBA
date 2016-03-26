@@ -3,6 +3,22 @@ guid: 70ab09007a182c04da33480f028dadeb
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box03
+    100006: Box04
+    100008: Box05
+    100010: Mask
+    100012: zombieArm
+    100014: //RootNode
+    400000: Box01
+    400002: Box02
+    400004: Box03
+    400006: Box04
+    400008: Box05
+    400010: Mask
+    400012: //RootNode
+    400014: zombieArm
     4300000: zombieArm
     4300002: Mask
     4300004: Box01
@@ -10,6 +26,10 @@ ModelImporter:
     4300008: Box03
     4300010: Box04
     4300012: Box05
+    7400000: grab1
+    7400002: grab2
+    11100000: //RootNode
+    13700000: zombieArm
   materials:
     importMaterials: 1
     materialName: 0

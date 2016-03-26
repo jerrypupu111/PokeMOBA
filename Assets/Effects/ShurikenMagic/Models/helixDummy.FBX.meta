@@ -3,7 +3,15 @@ guid: 6a4d6652da36387429423b9adef7f88b
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: helixUp
+    400000: //RootNode
+    400002: helixUp
+    2300000: helixUp
+    3300000: helixUp
     4300000: helixUp
+    7400000: flyUp
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
